@@ -4,6 +4,10 @@ from skimage.transform import resize, rescale
 import matplotlib.pyplot as plt
 import plotly.express as px
 
+# Primer 4.1
+# U promenljivu img uˇcitati lena.png. Odrediti sliku koja nastaje odredivanjem kvadratnog korena  ̄
+# nad vrednostima piksela uˇcitane slike. Slike prikazati u opsegu tonske skale [0,255].
+
 # img = io.imread('test_slike_omv/lena.png')
 # img_sqrt = np.sqrt(img.astype('float'))
 # plt.figure(figsize=(10,5))
